@@ -11,7 +11,7 @@ hosted on the [Project Pythia Cookbooks gallery](https://cookbooks.projectpythia
 
 1. Use the template
     1. If you don't already have a GitHub account, create one by following the [Getting Started with GitHub guide](https://foundations.projectpythia.org/foundations/getting-started-github.html)
-    1. On https://github.com/ProjectPythiaCookbooks/cookbook-template, click "Use this template"
+    1. On https://github.com/ProjectPythia/cookbook-template, click "Use this template"
     1. Choose "Include all branches"
     1. Create the repo under your account with a descriptive name, followed by `-cookbook` (e.g. `hydrology-cookbook`, `hpc-cookbook`, `cesm-cookbook`, etc.) by entering a name into the "Repository name" field and clicking on "Create repository from template"
     1. Your browser should be directed to the newly created repository under your GitHub account. Under Settings, enable GitHub Pages by changing the Source from "None" to `gh-pages` and clicking on "Save"
@@ -26,10 +26,10 @@ hosted on the [Project Pythia Cookbooks gallery](https://cookbooks.projectpythia
     1. Change `README.md` to include your cookbook title, various badges, a sentence or two describing the cookbook, and a link to the landing page. See the [Radar Cookbook](https://github.com/ProjectPythiaTutorials/radar-cookbook/blob/main/README.md) for an example
     2. Change `.gitignore` to include any pages from local site builds made during development. These will be in a `_build` directory (check if you moved the target directory from `notebooks/_build`).
     3. Commit your changes with git, and [open a Pull Request](https://foundations.projectpythia.org/foundations/github/github-pull-request.html) on your cookbook repo. When you open a PR there, the github-actions bot will comment a link to a preview of your cookbook
-1. Transfer cookbook to the [ProjectPythiaCookbooks](https://github.com/ProjectPythiaCookbooks) organization
+1. Transfer cookbook to the [ProjectPythia](https://github.com/ProjectPythia) organization
     1. Navigate to the settings of your repo, scroll down to the Danger Zone, and click "Transfer"
         1. For ProjectPythiaTutorials owners or members: type "ProjectPythiaTutorials", confirm, and transfer.
         1. For outside contributors:
             1. Contact an owner of ProjectPythiaTutorials to be added as an outside collaborator. Then transfer to ProjectPythiaTutorials; or
-            1. Type the username of an owner or member. They will then transfer it to ProjectPythiaCookbooks and add you as an outside collaborator on that repo
+            1. Type the username of an owner or member. They will then transfer it to ProjectPythia and add you as an outside collaborator on that repo
     1. Open issues, PRs, and continue making edits as necessary

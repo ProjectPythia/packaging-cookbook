@@ -2,8 +2,8 @@
 
 # Packaging Cookbook
 
-[![nightly-build](https://github.com/ProjectPythiaCookbooks/packaging-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythiaCookbooks/packaging-cookbook/actions/workflows/nightly-build.yaml)
-[![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythiaCookbooks/packaging-cookbook/main?labpath=notebooks)
+[![nightly-build](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml)
+[![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythia/packaging-cookbook/main?labpath=notebooks)
 
 This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., *working with radar data in Python*)
 
@@ -17,8 +17,8 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ### Contributors
 
-<a href="https://github.com/ProjectPythiaCookbooks/packaging-cookbook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ProjectPythiaCookbooks/packaging-cookbook" />
+<a href="https://github.com/ProjectPythia/packaging-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/packaging-cookbook" />
 </a>
 
 ## Structure
@@ -55,10 +55,10 @@ If you are interested in running this material locally on your computer, you wil
 
 (Replace "cookbook-example" with the title of your cookbooks)   
 
-1. Clone the `https://github.com/ProjectPythiaCookbooks/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythiaCookbooks/cookbook-example.git
+    git clone https://github.com/ProjectPythia/cookbook-example.git
     ```  
 1. Move into the `cookbook-example` directory
     ```bash
