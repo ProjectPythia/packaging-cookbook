@@ -4,6 +4,7 @@
 
 [![nightly-build](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythia/packaging-cookbook/main?labpath=notebooks)
+[![DOI](https://zenodo.org/badge/657280462.svg)](https://zenodo.org/badge/latestdoi/508404588)
 
 This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., *working with radar data in Python*)
 

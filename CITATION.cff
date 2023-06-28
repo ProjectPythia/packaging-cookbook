@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this cookbook, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: Kent
+    given-names: Julia
+    orcid: https://orcid.org/0000-0002-5611-8986
+    website: https://github.com/jukent
+    affiliation: UCAR/NCAR
+  - family-names: Zacharias
+    given-names: Anissa
+    orcid: https://orcid.org/0000-0002-2666-8493
+    website: https://github.com/anissa111
+    affiliation: UCAR/NCAR
+  - name: "Packaging Cookbook contributors" # use the 'name' field to acknowledge organizations
+    website: "https://github.com/ProjectPythia/packaging-cookbook/graphs/contributors"
+title: "Packaging Cookbook"
+abstract: "This Project Pythia Cookbook covers Python packaging."
