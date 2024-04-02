@@ -3,7 +3,8 @@
 # Packaging Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml)
-[![Binder](http://binder.mypythia.org/badge_logo.svg)](http://binder.mypythia.org/v2/gh/ProjectPythia/packaging-cookbook/main?labpath=notebooks)
+[![Binder](http://binder.projectpythia.org/badge_logo.svg)](http://binder.projectpythia.org/v2/gh/ProjectPythia/packaging-cookbook/main?labpath=notebooks)
+[![DOI](https://zenodo.org/badge/508404588.svg)](https://zenodo.org/badge/latestdoi/508404588)
 
 This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., *working with radar data in Python*)
 
@@ -31,22 +32,22 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 (Add content for this section, e.g., "Example workflows include ... ")
 
 ## Running the Notebooks
-You can either run the notebook using [Binder](https://mybinder.org/) or on your local machine.
+You can either run the notebook using [Binder](https://binder.projectpythia.org) or on your local machine.
 
 ### Running on Binder
 
 The simplest way to interact with a Jupyter Notebook is through
-[Binder](https://mybinder.org/), which enables the execution of a
-[Jupyter Book](https://jupyterbook.org) in the cloud. The details of how this works are not
+[Binder](https://binder.projectpythia.org), which enables the execution of a
+Jupyter Book in the cloud. The details of how this works are not
 important for now. All you need to know is how to launch a Pythia
-Cookbooks chapter via Binder. Simply navigate your mouse to
+Foundations book chapter via Binder. Simply navigate your mouse to
 the top right corner of the book chapter you are viewing and click
 on the rocket ship icon, (see figure below), and be sure to select
 “launch Binder”. After a moment you should be presented with a
 notebook that you can interact with. I.e. you’ll be able to execute
 and even change the example programs. You’ll see that the code cells
 have no output at first, until you execute them by pressing
-{kbd}`Shift`\+{kbd}`Enter`. Complete details on how to interact with
+`Shift` `Enter`. Complete details on how to interact with
 a live Jupyter notebook are described in [Getting Started with
 Jupyter](https://foundations.projectpythia.org/foundations/getting-started-jupyter.html).
 
