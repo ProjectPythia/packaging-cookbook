@@ -1,1 +1,1 @@
-import{a}from"/packaging-cookbook/build/_shared/chunk-GCBN6WAX.js";import"/packaging-cookbook/build/_shared/chunk-3MZURCDM.js";import"/packaging-cookbook/build/_shared/chunk-2NH4LW52.js";export default a();
+import{a}from"/packaging-cookbook/_preview/27/build/_shared/chunk-GCBN6WAX.js";import"/packaging-cookbook/_preview/27/build/_shared/chunk-3MZURCDM.js";import"/packaging-cookbook/_preview/27/build/_shared/chunk-2NH4LW52.js";export default a();
