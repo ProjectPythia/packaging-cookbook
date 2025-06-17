@@ -1,6 +1,6 @@
-<img src="thumbnail.png" alt="thumbnail" width="300"/>
-
 # Packaging Cookbook
+
+<img src="thumbnail.png" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/packaging-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](http://binder.projectpythia.org/badge_logo.svg)](http://binder.projectpythia.org/v2/gh/ProjectPythia/packaging-cookbook/main?labpath=notebooks)
