@@ -4,3 +4,4 @@ channels:
 dependencies:
   - jupyter-book
   - sphinx-pythia-theme
+  - mystmd
