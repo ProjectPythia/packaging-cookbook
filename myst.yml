@@ -1,12 +1,12 @@
 version: 1
 extends:
-  - https://raw.githubusercontent.com/projectpythia-mystmd/pythia-config/main/pythia.yml
+  - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
   title: Packaging Cookbook
   authors:
     - name: Project Pythia Community
       url: https://projectpythia.org/
-  github: https://github.com/projectpythia-mystmd/packaging-cookbook
+  github: https://github.com/projectpythia/packaging-cookbook
   copyright: '2024'
   toc:
     - file: README.md
@@ -15,7 +15,7 @@ project:
         - file: notebooks/notebook-template.ipynb
   jupyter:
       binder:
-        repo: projectpythia-mystmd/packaging-cookbook
+        repo: projectpythia/packaging-cookbook
 site:
   options:
     logo: notebooks/images/logos/pythia_logo-white-rtext.svg
